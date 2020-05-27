@@ -1,0 +1,16 @@
+{
+  "name": "blog_server_koa",
+  "version": "1.0.0",
+  "description": "博客的服务端  基于koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-bodyparser": "^4.3.0",
+    "lin-mizar": "^0.3.2"
+  }
+}
